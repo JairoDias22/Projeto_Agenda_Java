@@ -35,9 +35,10 @@ Este projeto foi desenvolvido como atividade avaliativa da disciplina Programaç
 📂 Estrutura do Projeto
 <pre>
 src/
-├── Contato.java      # Classe que representa um contato da agenda
-├── Agenda.java       # Classe responsável pelo gerenciamento dos contatos
-└── AgendaGUI.java    # Interface gráfica desenvolvida com Java Swing
+├── Agenda.java   	     
+├── AgendaEletronica.java      
+├── Contato.java 
+└── Main.java    
 </pre>
 
 ⸻
