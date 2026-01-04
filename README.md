@@ -1,6 +1,8 @@
+
 📒 Agenda Eletrônica em Java (Swing)
 
-Projeto desenvolvido em Java utilizando os conceitos de Programação Orientada a Objetos (POO) e interface gráfica com Java Swing. A aplicação permite o cadastro, busca, exclusão e listagem de contatos, aplicando encapsulamento e separação entre lógica e interface.
+Projeto desenvolvido em Java utilizando os conceitos de Programação Orientada a Objetos (POO) e interface gráfica com Java Swing.
+A aplicação permite o cadastro, busca, exclusão e listagem de contatos, aplicando encapsulamento e separação entre lógica e interface.
 
 ⸻
 
@@ -8,35 +10,38 @@ Projeto desenvolvido em Java utilizando os conceitos de Programação Orientada 
 
 Este projeto foi desenvolvido como atividade avaliativa da disciplina Programação Orientada a Objetos, com o objetivo de:
 
-• Aplicar os princípios da POO, principalmente encapsulamento;
+•	Aplicar os princípios da POO, principalmente encapsulamento;
 
-• Trabalhar com listas e manipulação de objetos;
+•	Trabalhar com listas e manipulação de objetos;
 
-• Integrar lógica de negócio com interface gráfica (Java Swing);
+•	Integrar lógica de negócio com interface gráfica (Java Swing);
 
-• Desenvolver uma aplicação funcional e organizada.
+•	Desenvolver uma aplicação funcional e organizada.
 
 ⸻
 
 🛠️ Tecnologias Utilizadas
 
-• Java
+•	Java
 
-• Java Swing
+•	Java Swing
 
-• POO (Encapsulamento, Classes, Métodos, Construtores)
+•	POO (Encapsulamento, Classes, Métodos, Construtores)
 
-• JTable para exibição de dados
+•	JTable para exibição de dados
 
 ⸻
 
 📂 Estrutura do Projeto
-
+<pre>
 src/
 ├── Contato.java      # Classe que representa um contato da agenda
 ├── Agenda.java       # Classe responsável pelo gerenciamento dos contatos
 └── AgendaGUI.java    # Interface gráfica desenvolvida com Java Swing
+</pre>
+
 ⸻
+<pre>
 
 🧩 Funcionalidades
 	•	✅ Cadastrar novos contatos
@@ -44,10 +49,11 @@ src/
 	•	❌ Excluir contatos
 	•	📋 Exibir todos os contatos cadastrados em uma tabela
 	•	⚠️ Validações simples (CPF e e-mail não podem ser vazios)
+</pre>
 ⸻
 
 🧑‍💻 Conceitos de POO Aplicados
-
+<pre>
 	•	Encapsulamento
     •   Todos os atributos das classes são privados e acessados por meio de getters e setters.
 	•	Separação de responsabilidades
@@ -55,14 +61,17 @@ src/
 	•	Agenda: regras de negócio
 	•	AgendaGUI: interface gráfica
 	•	Reutilização e organização do código
+</pre>
 ⸻
 
-▶️ Como Executar o Projeto 1. Clone este repositório:
+▶️ Como Executar o Projeto
+	1.	Clone este repositório:
 
 git clone https://github.com/JairoDias22/Agenda-Java
 
-2.	Abra o projeto em uma IDE Java (IntelliJ, Eclipse ou VS Code)
-3.	Execute a classe:
+	2.	Abra o projeto em uma IDE Java (IntelliJ, Eclipse ou VS Code)
+	3.	Execute a classe:
+
 AgendaGUI.java
 
 A interface gráfica da agenda será exibida.
@@ -72,16 +81,18 @@ A interface gráfica da agenda será exibida.
 🖥️ Interface Gráfica
 
 A aplicação utiliza Java Swing, com os seguintes componentes:
-
+<pre>
 	•	JFrame
 	•	JPanel
 	•	JLabel
 	•	JTextField
 	•	JButton
 	•	JTable
+</pre>
 A interface é simples, intuitiva e permite fácil interação com o sistema.
 
 ⸻
+
 
 👨‍🎓 Autores
 
