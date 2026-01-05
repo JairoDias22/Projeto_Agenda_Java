@@ -34,7 +34,7 @@ Este projeto foi desenvolvido como atividade avaliativa da disciplina Programaç
 
 📂 Estrutura do Projeto
 <pre>
-src/
+src/main/java/com/mycompany/agendaeletronica
 ├── Agenda.java   	     
 ├── AgendaEletronica.java      
 ├── Contato.java 
