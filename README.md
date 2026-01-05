@@ -1,5 +1,11 @@
 
-📒 Agenda Eletrônica em Java (Swing)
+<h1 align="center">📒 Agenda Eletrônica em Java (Swing)</h1>
+
+
+<p align="center">
+  <img src="Projeto-agenda.gif" width="600">
+</p>
+
 
 Projeto desenvolvido em Java utilizando os conceitos de Programação Orientada a Objetos (POO) e interface gráfica com Java Swing.
 A aplicação permite o cadastro, busca, exclusão e listagem de contatos, aplicando encapsulamento e separação entre lógica e interface.
