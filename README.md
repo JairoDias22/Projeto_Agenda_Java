@@ -14,7 +14,7 @@ A aplicação permite o cadastro, busca, exclusão e listagem de contatos, aplic
 
 🎯 Objetivo do Projeto
 
-Este projeto foi desenvolvido como atividade avaliativa da disciplina Programação Orientada a Objetos, com o objetivo de:
+Este projeto foi desenvolvido como atividade avaliativa da disciplina Programação Orientada a Objetos, do curso superior de Análise e Desenvolvimento de Sistemas, da Universidade Estadual do Maranhão (UEMA), com o objetivo de:
 
 •	Aplicar os princípios da POO, principalmente encapsulamento;
 
