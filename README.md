@@ -74,7 +74,7 @@ src/main/java/com/mycompany/agendaeletronica
 ▶️ Como Executar o Projeto
 	1.	Clone este repositório:
 
-git clone https://github.com/JairoDias22/Agenda-Java
+git clone https://github.com/JairoDias22/Projeto_Agenda_Java
 
 	2.	Abra o projeto em uma IDE Java (IntelliJ, Eclipse ou VS Code)
 	3.	Execute a classe: Main.java
