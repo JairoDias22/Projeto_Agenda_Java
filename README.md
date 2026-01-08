@@ -12,7 +12,7 @@ A aplicação permite o cadastro, busca, exclusão e listagem de contatos, aplic
 
 ⸻
 
-🎯 Objetivo do Projeto
+# 🎯 Objetivo do Projeto
 
 Este projeto foi desenvolvido como atividade avaliativa da disciplina Programação Orientada a Objetos, do curso superior de Análise e Desenvolvimento de Sistemas, da Universidade Estadual do Maranhão (UEMA), com o objetivo de:
 
@@ -26,7 +26,7 @@ Este projeto foi desenvolvido como atividade avaliativa da disciplina Programaç
 
 ⸻
 
-🛠️ Tecnologias Utilizadas
+# 🛠️ Tecnologias Utilizadas
 
 •	Java
 
@@ -38,7 +38,7 @@ Este projeto foi desenvolvido como atividade avaliativa da disciplina Programaç
 
 ⸻
 
-📂 Estrutura do Projeto
+# 📂 Estrutura do Projeto
 <pre>
 src/main/java/com/mycompany/agendaeletronica
 ├── Agenda.java   	     
@@ -50,7 +50,7 @@ src/main/java/com/mycompany/agendaeletronica
 ⸻
 <pre>
 
-🧩 Funcionalidades
+# 🧩 Funcionalidades
 	•	✅ Cadastrar novos contatos
 	•	🔍 Buscar contatos pelo CPF
 	•	❌ Excluir contatos
@@ -59,7 +59,7 @@ src/main/java/com/mycompany/agendaeletronica
 </pre>
 ⸻
 
-🧑‍💻 Conceitos de POO Aplicados
+# 🧑‍💻 Conceitos de POO Aplicados
 <pre>
 	•	Encapsulamento
     •   Todos os atributos das classes são privados e acessados por meio de getters e setters.
@@ -71,7 +71,7 @@ src/main/java/com/mycompany/agendaeletronica
 </pre>
 ⸻
 
-▶️ Como Executar o Projeto
+# ▶️ Como Executar o Projeto
 	1.	Clone este repositório:
 
 git clone https://github.com/JairoDias22/Projeto_Agenda_Java
@@ -83,7 +83,7 @@ A interface gráfica da agenda será exibida.
 
 ⸻
 
-🖥️ Interface Gráfica
+# 🖥️ Interface Gráfica
 
 A aplicação utiliza Java Swing, com os seguintes componentes:
 <pre>
@@ -99,7 +99,7 @@ A interface é simples, intuitiva e permite fácil interação com o sistema.
 ⸻
 
 
-👨‍🎓 Autores
+# 👨‍🎓 Autores
 
 RAIMUNDO JAIRO DA SILVA DIAS
 
